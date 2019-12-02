@@ -6,3 +6,6 @@ A simple implement of linear svm by python
 超参数设置：epsilon=10^(-6), C=100
 
 ### 代码内容
+mnist.py MNIST数据集导入
+generate_dataset.py 二维二分类数据集生成
+model.py linear SVM model
